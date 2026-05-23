@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+
+# OS junk
+.DS_Store
+
+# Obsidian Junk
+.obsidian
+.trash

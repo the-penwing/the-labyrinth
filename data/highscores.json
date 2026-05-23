@@ -1,0 +1,108 @@
+{
+  "easy": [
+    {
+      "firstname": "Ben ",
+      "initial_or_lastname": "vL",
+      "score": 7275,
+      "date": "30-04-2026"
+    },
+    {
+      "firstname": "Anonymous",
+      "initial_or_lastname": "",
+      "score": 6075,
+      "date": "01-05-2026"
+    },
+    {
+      "firstname": "Ben",
+      "initial_or_lastname": "vl",
+      "score": 5880,
+      "date": "30-04-2026"
+    },
+    {
+      "firstname": "Enter your first name: ",
+      "initial_or_lastname": "Enter your last name or last inital: ",
+      "score": 5695,
+      "date": "01-05-2026"
+    },
+    {
+      "firstname": "Ben ",
+      "initial_or_lastname": "vL",
+      "score": 5625,
+      "date": "30-04-2026"
+    },
+    {
+      "firstname": "Anonymous",
+      "initial_or_lastname": "",
+      "score": 5430,
+      "date": "01-05-2026"
+    },
+    {
+      "firstname": "Anonymous",
+      "initial_or_lastname": "",
+      "score": 5070,
+      "date": "01-05-2026"
+    },
+    {
+      "firstname": "Ben",
+      "initial_or_lastname": "vl",
+      "score": 5040,
+      "date": "30-04-2026"
+    },
+    {
+      "firstname": "Ben",
+      "initial_or_lastname": "vL",
+      "score": 4995,
+      "date": "30-04-2026"
+    },
+    {
+      "firstname": "Anonymous",
+      "initial_or_lastname": "",
+      "score": 4995,
+      "date": "01-05-2026"
+    },
+    {
+      "firstname": "Anonymous",
+      "initial_or_lastname": "",
+      "score": 4800,
+      "date": "01-05-2026"
+    },
+    {
+      "firstname": "Ben",
+      "initial_or_lastname": "vL",
+      "score": 4785,
+      "date": "28-04-2026"
+    },
+    {
+      "firstname": "Anonymous",
+      "initial_or_lastname": "",
+      "score": 4590,
+      "date": "01-05-2026"
+    },
+    {
+      "firstname": "Bob",
+      "initial_or_lastname": "M",
+      "score": 920,
+      "date": "27-04-2026"
+    },
+    {
+      "firstname": "Alice",
+      "initial_or_lastname": "S",
+      "score": 850,
+      "date": "27-04-2026"
+    },
+    {
+      "firstname": "Charlie",
+      "initial_or_lastname": "W",
+      "score": 780,
+      "date": "27-04-2026"
+    },
+    {
+      "firstname": "Anonymous",
+      "initial_or_lastname": "",
+      "score": 0,
+      "date": "01-05-2026"
+    }
+  ],
+  "medium": [],
+  "hard": []
+}
