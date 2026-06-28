@@ -8,6 +8,7 @@ python3Packages.buildPythonApplication {
   src = ./.;
 
   pyproject = true;
+  build-system = [python3Packages.setuptools python3Packages.wheel];
 
   propagatedBuildInputs = with python3Packages; [
     textual
