@@ -7,6 +7,8 @@ python3Packages.buildPythonApplication {
   version = "0.1.0";
   src = ./.;
 
+  pyproject = true;
+
   propagatedBuildInputs = with python3Packages; [
     textual
     rich

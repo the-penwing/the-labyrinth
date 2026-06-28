@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "theLabyrinth"
+version = "1.0.0"
+description = "Terminal Wordle in Python/Textual"
+dependencies = [
+  "requests==2.33.1",
+  "rich==15.0.0",
+  "rich-pixels==3.0.1",
+  "textual==8.2.4",
+  "pillow==12.2.0",
+]
+
+[project.scripts]
+theLabyrinth = "main:main"
