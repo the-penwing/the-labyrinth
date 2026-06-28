@@ -1,0 +1,27 @@
+Screen {
+  background: #32302f;
+}
+
+Static {
+  height: 1fr;
+  width: 1fr;
+  text-align: center;
+}
+#winScreen {
+  border: double #98971a;
+  color: #282828;
+}
+
+#finalWinScreen {
+  border: double #98971a;
+  color: #282828;
+}
+
+#loseScreen {
+  border: double #fb4934;
+  color: #fb4934;
+}
+#finalLoseScreen {
+  border: double #fb4934;
+  color: #fb4934;
+}
