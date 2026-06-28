@@ -1,6 +1,0 @@
-requests==2.33.1
-rich==15.0.0
-rich-pixels==3.0.1
-textual==8.2.4
-textual-dev==1.8.0
-Pillow==12.2.0
