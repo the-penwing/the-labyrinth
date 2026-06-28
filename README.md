@@ -2,6 +2,7 @@
 
 - [Requirements Definition](./docs/requirements-definition.md)
 - [How to Setup and Play the Game](./docs/how-to-play-the-labyrinth.md)
+- [Installation via Nix and NixOS](./docs/installing.md)
 - [Data Dictionary](./docs/data-dictionary.md)
 - [High Score System Specs](./docs/high-scores-manager-specification.md)
 - [High Scores Data Structure Reference](./docs/high-scores-data-structure-reference.md)

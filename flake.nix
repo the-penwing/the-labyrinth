@@ -16,6 +16,13 @@
         pkgs = nixpkgs.legacyPackages.${system};
       in {
         packages.default = pkgs.callPackage ./default.nix {};
+        packages.theLabyrinth = self.packages.${system}.default;
       }
-    );
+    )
+    // {
+      # Allow this flake to be used as an input
+      overlays.default = final: prev: {
+        theLabyrinth = final.callPackage ./default.nix {};
+      };
+    };
 }
