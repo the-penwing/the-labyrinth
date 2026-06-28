@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "theLabyrinth"
-version = "1.0.0"
+version = "0.1.0"
 description = "Terminal Word Game in Python/Textual"
 dependencies = ["requests", "rich", "rich-pixels", "textual", "pillow"]
 
@@ -14,5 +14,9 @@ theLabyrinth = "main:main"
 [tool.setuptools]
 packages = ["screens", "gameLogic", "menuLogic", "styles"]
 py-modules = ["main"]
+
+[tool.setuptools.package-dir]
+"" = "src"
+
 [tool.setuptools.package-data]
 styles = ["*.tcss"]
